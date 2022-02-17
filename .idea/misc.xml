@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/drawable/GPA_kuleszad1_Calculator_background.xml" value="0.151" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/drawable/GPA_kuleszad1_Calculator_foreground.xml" value="0.3205" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/layout/activity_main.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/mipmap-anydpi-v26/GPA_kuleszad1_Calculator.xml" value="0.3205" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/mipmap-anydpi-v26/GPA_kuleszad1_Calculator_round.xml" value="0.3205" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/mipmap-anydpi-v26/gpa_kuleszad1_calculator.xml" value="0.3205" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/GPA_kuleszad1_Calculator/app/src/main/res/mipmap-anydpi-v26/gpa_kuleszad1_calculator_round.xml" value="0.3205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
